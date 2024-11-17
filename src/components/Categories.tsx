@@ -1,7 +1,7 @@
 import { Laptop, Headphones, Camera, Watch, Shirt, Home, Gift, Book } from 'lucide-react';
 
 const categories = [
-  { name: 'Electronics', icon: Laptop },
+  { name: 'Electronics', icon: Laptop},
   { name: 'Audio', icon: Headphones },
   { name: 'Cameras', icon: Camera },
   { name: 'Watches', icon: Watch },
