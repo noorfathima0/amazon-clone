@@ -9,8 +9,5 @@
 * Start the development server:
     - npm run dev
 
-**Contributions**
-Feel free to fork this repository and contribute. Pull requests are welcome!
-
 **Live Project:**
 Live - https://amazon-clone-noor.netlify.app/
