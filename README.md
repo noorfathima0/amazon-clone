@@ -9,8 +9,6 @@
 * Start the development server:
     - npm run dev
 
-Open the app in your browser at http://localhost:3000.
-
 **Contributions**
 Feel free to fork this repository and contribute. Pull requests are welcome!
 
