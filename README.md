@@ -10,4 +10,4 @@
     - npm run dev
 
 **Live Project:**
-Live - https://amazon-clone-noor.netlify.app/
+Live - https://amazonclone-noor.netlify.app/
